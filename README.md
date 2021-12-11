@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on fintech product in Ukraine.
 - 🤔 I’m looking for help with [VaultSharp.Extensions.Configuration](https://github.com/MrZoidberg/VaultSharp.Extensions.Configuration) and [UUID-Dotnet](https://github.com/MrZoidberg/uuid_dotnet)
 - 📫 How to reach me: Telegram @mihmerk
-- ⚡ Tech I like: C#, Swift, MongoDB, AWS
+- ⚡ Tech I like: C#, Go, MongoDB, AWS
 
 
 <p align="center">
