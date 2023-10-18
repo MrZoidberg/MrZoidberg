@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on fintech products as Software Engineer/Architect.
-- 🌱 I’m currently learning how to run business.
-- 👯 I’m looking to collaborate on fintech product in Ukraine.
-- 🤔 I’m looking for help with [VaultSharp.Extensions.Configuration](https://github.com/MrZoidberg/VaultSharp.Extensions.Configuration) and [UUID-Dotnet](https://github.com/MrZoidberg/uuid_dotnet)
+- 🔭 I’m currently working on fintech products as a Software Engineer/Architect.
+- 🌱 I’m currently learning how to run a business.
+- 👯 I’m looking to collaborate on fintech products.
+- 🤔 I’m looking for help with [VaultSharp.Extensions.Configuration](https://github.com/MrZoidberg/VaultSharp.Extensions.Configuration).
 - 📫 How to reach me: Telegram @mihmerk
 - ⚡ Tech I like: C#, Go, MongoDB, AWS
 
