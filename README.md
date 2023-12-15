@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on fintech products as a Software Engineer/Architect.
+- 🔭 I’m currently working on AI products as a Software Engineer/Architect.
 - 🌱 I’m currently learning how to run a business.
-- 👯 I’m looking to collaborate on fintech products.
+- 👯 I’m looking to collaborate on fintech/AI products.
 - 🤔 I’m looking for help with [VaultSharp.Extensions.Configuration](https://github.com/MrZoidberg/VaultSharp.Extensions.Configuration).
 - 📫 How to reach me: Telegram @mihmerk
-- ⚡ Tech I like: C#, Go, MongoDB, AWS
+- 💡 My LinkedIn https://www.linkedin.com/in/mykhaylomerkulov/
+- ⚡ Tech I like: .NET, Go, MongoDB, AWS
 
 
 <p align="center">
