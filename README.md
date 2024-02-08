@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AI products as a Software Engineer/Architect.
+- 🔭 I’m working on AI products as a Software Engineer/Architect. I'm designing a B2B platform for data insights using the power of AI (GPT, OpenLLama, LangChain, etc...).
 - 🌱 I’m currently learning how to run a business.
+- ☁️ I'm a certified AWS Architect
 - 👯 I’m looking to collaborate on fintech/AI products.
-- 🤔 I’m looking for help with [VaultSharp.Extensions.Configuration](https://github.com/MrZoidberg/VaultSharp.Extensions.Configuration).
+- 🤔 I’m seeking help with [VaultSharp.Extensions.Configuration](https://github.com/MrZoidberg/VaultSharp.Extensions.Configuration).
 - 📫 How to reach me: Telegram @mihmerk
 - 💡 My LinkedIn https://www.linkedin.com/in/mykhaylomerkulov/
-- ⚡ Tech I like: .NET, Go, MongoDB, AWS
+- ⚡ Tech I like .NET, Go, MongoDB, AWS, Python
+- 🛝 During my free time, I'm doing a chatbot for home/life automation, building a homelab (Ubiquity, NAS, OrangePi), playing computer games, Preferans, reading Sci-Fi, cycling.
 
 
 <p align="center">
