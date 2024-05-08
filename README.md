@@ -7,8 +7,8 @@
 - 🤔 I’m seeking help with [VaultSharp.Extensions.Configuration](https://github.com/MrZoidberg/VaultSharp.Extensions.Configuration).
 - 📫 How to reach me: Telegram @mihmerk
 - 💡 My LinkedIn https://www.linkedin.com/in/mykhaylomerkulov/
-- ⚡ Tech I like .NET, Go, MongoDB, AWS, Python
-- 🛝 During my free time, I'm doing a chatbot for home/life automation, building a homelab (Ubiquity, NAS, OrangePi), playing computer games, Preferans, reading Sci-Fi, cycling.
+- ⚡ Tech I like .NET, Go, Python, AWS, LLM
+- 🛝 During my free time, I'm doing a chatbot for home/life automation, building a homelab (Ubiquity, Proxmox, Epyc server, OrangePi), playing computer games, Preferans, reading Sci-Fi, and cycling.
 
 
 <p align="center">
