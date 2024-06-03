@@ -9,7 +9,7 @@
 - 💡 My LinkedIn https://www.linkedin.com/in/mykhaylomerkulov/
 - ⚡ Tech I like .NET, Go, Python, AWS, LLM
 - 🛝 During my free time, I'm doing a chatbot for home/life automation, building a homelab (Ubiquity, Proxmox, Epyc server, OrangePi), playing computer games, Preferans, reading Sci-Fi, and cycling.
-- 🛑 F**k Trump, F**k Putin, all lives matter (except Putin and his army).
+- 🛑 F__k Trump, F__k Putin, all lives matter (except Putin and his army).
 
 
 <p align="center">
