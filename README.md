@@ -7,7 +7,7 @@
 - 📫 How to reach me: Telegram @mihmerk
 - 💡 My LinkedIn https://www.linkedin.com/in/mykhaylomerkulov/
 - 🌐 My website https://merkulov.me
-- ⚡ Tech I like .NET, Go, Python, AWS, LLM
+- ⚡ Tech stack: .NET, Go, Python, AWS, LLMs
 - 🛝 During my free time, I'm doing a chatbot for home/life automation, building a homelab (Ubiquity, Proxmox, Epyc server, OrangePi), playing computer games and Preferans, reading Sci-Fi, and cycling.
 - 🛑 F__k Trump, F__k Putin
 
